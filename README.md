@@ -8,6 +8,33 @@ And Don't Forget to Subscribe My YouTube Channel : FahadAkash
 
 ### Requirements:
 
-First Install kali-linux App Form Microsoft Store
+First Install kali linux App Form Microsoft Store
+
+then open Terminal and Type
+
+``sudo apt-get update
+
+sudo apt-get upgrade 
+
+sudo apt-get install git
+
+sudo apt-get install python
+
+sudo apt-get install python-pip
+
+git clone https://github.com/FahadAkash/Easy-kali ``
+
+go to the dir
+
+and type 
+
+``pip install -r requirements.txt
+
+python Easy kali.py ``
+
+And Enjoy 
+
+![con](https://en.bloggif.com/tmp/59438dc696b6d8c766bf9000c4e0b82d/text.gif?1526313656)
+
 
 
