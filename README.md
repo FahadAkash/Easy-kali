@@ -14,23 +14,23 @@ then open Terminal and Type
 
 ``sudo apt-get update``
 
-``sudo apt-get upgrade 
+``sudo apt-get upgrade`` 
 
-sudo apt-get install git
+``sudo apt-get install git``
 
-sudo apt-get install python
+``sudo apt-get install python``
 
-sudo apt-get install python-pip
+``sudo apt-get install python-pip``
 
-git clone https://github.com/FahadAkash/Easy-kali ``
+``git clone https://github.com/FahadAkash/Easy-kali ``
 
 go to the dir
 
 and type 
 
-``pip install -r requirements.txt
+``pip install -r requirements.txt``
 
-python Easy kali.py ``
+``python Easy kali.py ``
 
 And Enjoy 
 
