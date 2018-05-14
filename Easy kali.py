@@ -61,13 +61,13 @@ def restart_program():
 print gs
 gp = raw_input(blue +"Ekali==>>")
 if gp == "1":
-	os.system('apt-get install figlet')
-	os.system('figlet -f mini °°°°°°Kali GUI°°°°°')
- 	os.system('apt-get install update')
- 	os.system('apt-get install wget -y ')
- 	os.system('apt-get dist-upgrade -y --force-yes')
- 	os.system('apt-get --yes --force-yes install')
- 	os.system("sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini")
+	os.system('sudo apt-get install figlet')
+	os.system('sudo figlet -f mini °°°°°°Kali GUI°°°°°')
+ 	os.system('sudo apt-get install update')
+ 	os.system('sudo apt-get install wget -y ')
+ 	os.system('sudo apt-get dist-upgrade -y --force-yes')
+ 	os.system('sudo apt-get --yes --force-yes install')
+ 	os.system("sudo sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini")
  	print green + "#########Complete##########"
  	timeout(2)
  	os.system('clear')
@@ -76,9 +76,9 @@ if gp == "1":
 
 	gp = raw_input(green + "Ekali==>>")
 elif gp == "2":
-    os.system('figlet -f mini Configaration')
+    os.system('sudo figlet -f mini Configaration')
     os.system('sudo /etc/init.d/xrdp start')
-    os.system('cat /etc/issue')
+    os.system('sudo cat /etc/issue')
     print "######Done##########"
     print "Start GUI(Now)"
     timeout(2)
@@ -89,7 +89,7 @@ elif gp =="3":
 	os.system('clear')
 	print (blue + "#######Starting The Service####")
 	timeout(3)
-	os.system('service xrdp start')
+	os.system('sudo service xrdp start')
 	print "########Done######"
 	timeout(2)
 	os.system('clear')
@@ -98,7 +98,7 @@ elif gp == "4":
 	os.system('clear')
 	print "#######Stoping The Service#####"
 	os.system('clear')
-	os.system('service xrdp stop')
+	os.system('sudo service xrdp stop')
 	timeout(4)
 	os.system('clear')
 	restart_program()
