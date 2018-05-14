@@ -12,9 +12,9 @@ First Install kali linux App Form Microsoft Store
 
 then open Terminal and Type
 
-``sudo apt-get update
+``sudo apt-get update``
 
-sudo apt-get upgrade 
+``sudo apt-get upgrade 
 
 sudo apt-get install git
 
