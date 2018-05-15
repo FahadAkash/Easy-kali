@@ -32,11 +32,11 @@ gpe =yellow + """
                                          //.-~~~--\
 _________________________________________________________________________
 |                       Easy Kali                                        |
-|			      Made By Fahad Akash					                 |
-|Installations:															 |
+|			      Made By Fahad Akash	                 |
+|Installations:								 |							 |
 |#First you need to install kali linux App form window's  app store      |
-|#when setup all complete then Clone The Easy Kali Script And			 |
-|	Enjoy Kali linux (GUI)												 |
+|#when setup all complete then Clone The Easy Kali Script And	         |
+|	Enjoy Kali linux (GUI)						 |
 |________________________________________________________________________|
 
 
@@ -67,7 +67,9 @@ if gp == "1":
  	os.system('sudo apt-get install wget -y ')
  	os.system('sudo apt-get dist-upgrade -y --force-yes')
  	os.system('sudo apt-get --yes --force-yes install')
- 	os.system("sudo sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini")
+	os.system('sudo apt-get install wget')
+ 	os.system('sudo wget https://kali.sh/xfce4.sh')
+	os.system('sudo sh xfce4.sh'
  	print green + "#########Complete##########"
  	timeout(2)
  	os.system('clear')
