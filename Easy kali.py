@@ -69,7 +69,7 @@ if gp == "1":
  	os.system('sudo apt-get --yes --force-yes install')
 	os.system('sudo apt-get install wget')
  	os.system('sudo wget https://kali.sh/xfce4.sh')
-	os.system('sudo sh xfce4.sh'
+	os.system('sudo sh xfce4.sh')
  	print green + "#########Complete##########"
  	timeout(2)
  	os.system('clear')
