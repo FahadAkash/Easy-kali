@@ -35,7 +35,7 @@ and type
 And Enjoy 
 
 ![con](https://en.bloggif.com/tmp/59438dc696b6d8c766bf9000c4e0b82d/text.gif?1526313656)
-![con](https://www.facebook.com/photo.php?fbid=2140497919514543&set=a.1402579569973052.1073741825.100006630666218&type=3)
+
 
 
 
