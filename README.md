@@ -32,6 +32,17 @@ and type
 
 ``python Easy kali.py ``
 
+And Complete 1-4
+
+Open Remote Dekstop Connection and Type
+
+`` 127.0.0.1:3390 `` 
+
+And hit connect  , type you Username and password 
+
+Wait few Time
+
+
 And Enjoy 
 
 ![con](https://en.bloggif.com/tmp/e6b918b3f22e8fc726a5ff41445f73b0/text.gif?1526902948)
