@@ -44,9 +44,6 @@ Wait few Time
 
 
 And Enjoy 
-
-![con](https://en.bloggif.com/tmp/40a2fd0d230ef29467df129622710f18/text.gif?1528008031)
-
-
+### Easy Kali
 
 
